@@ -1,0 +1,11 @@
+#テーマの設定
+theme : sky
+
+#ロゴアイコンの設定
+#logo : logo.png
+
+#フットノートの設定
+#footnote : "osamu.arita"
+
+#スライドのページ数表示の設定
+slide-number: true
